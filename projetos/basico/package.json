@@ -1,0 +1,14 @@
+{
+    "name": "lea-web-nodejs-basic",
+    "version": "23.0222-1124-00",
+    "description": "Página Web Básica",
+    "main": "app/main.js",
+    "dependencies": {},
+    "scripts": {
+        "start": "node app/main.js"
+    },
+    "author": {
+        "name": "Lilithering",
+        "email": "lilithering@gmail.com"
+    }
+}
